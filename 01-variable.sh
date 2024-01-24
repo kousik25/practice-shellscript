@@ -1,4 +1,4 @@
 #!/bin/bash
 
-DATE = $(date)
-echo "scrpt stating from: ${DATE}"
+DATE=$(date)
+echo "scrIpt stating from: ${DATE}"
